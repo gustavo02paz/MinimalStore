@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436747733086",
+    "project_id": "erud-e0100",
+    "storage_bucket": "erud-e0100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436747733086:android:fc7f19898c5baafc9a0ccf",
+        "android_client_info": {
+          "package_name": "br.com.dtec.loja.minimalstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOVJxQ9t89Cpo3qPBpuW-Aazb4teFDQM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
